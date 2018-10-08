@@ -1,4 +1,4 @@
-# QC APP
+# React Native App 
 
 Quality assurane app improves the supply chain management work. It helps the PG team to collaborate the work with the seller more efficiently. This app is being developed in React-Native.
 
